@@ -9,7 +9,6 @@ gradle-app.setting
 ## Java
 *.class
 *.ear
-*.jar
 *.war
 hs_err_pid*
 
