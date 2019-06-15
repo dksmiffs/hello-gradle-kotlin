@@ -2,7 +2,7 @@
 //    gradle/kotlin-dsl/blob/master/samples/hello-kotlin/build.gradle.kts
 plugins {
   application
-  kotlin("jvm") version "1.3.11"
+  kotlin("jvm") version "1.3.31"
 }
 
 application {
