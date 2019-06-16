@@ -1,4 +1,7 @@
-# hello-gradle-kotlin [![ci-badge]][ci-travis]
+# hello-gradle-kotlin
+[![image](https://img.shields.io/github/license/dksmiffs/hello-gradle-kotlin.svg)](https://github.com/dksmiffs/hello-gradle-kotlin)
+[![image](https://img.shields.io/github/release/dksmiffs/hello-gradle-kotlin.svg)](https://github.com/dksmiffs/hello-gradle-kotlin/releases)
+[![image](https://img.shields.io/travis/dksmiffs/hello-gradle-kotlin.svg)](https://travis-ci.org/dksmiffs/hello-gradle-kotlin)
 
 This project demonstrates basic [Kotlin] with [Gradle]'s Kotlin DSL.
 
