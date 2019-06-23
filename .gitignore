@@ -1,21 +1,5 @@
-## Gradle
-/local.properties
-.gradle/
-gradle-app.setting
-/build/
-/core/build/
-/desktop/build/
-
-## Java
-*.class
-*.ear
-*.war
-hs_err_pid*
-
-## Python
-*.pyc
-
-## Vim
 *~
+build/
+devops/venv_*
+.gradle/
 *.swp
-

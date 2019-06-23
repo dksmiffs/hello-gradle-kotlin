@@ -6,11 +6,7 @@ parser.add_argument('--verbose', help='chatty output', action='store_true')
 args = parser.parse_args()
 
 
-from cd import cd
-with cd(".."):
-  import gradle_version
-  gradle_version.update(args.verbose)
-
-  import kotlin_version
-  kotlin_version.update(args.verbose)
-
+from devops_spt import Directory, GradleVersion, KotlinVersion
+with Directory.cd(".."):
+  GradleVersion.update(args.verbose)
+  KotlinVersion.update(args.verbose)
