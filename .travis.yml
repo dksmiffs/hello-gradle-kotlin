@@ -21,4 +21,4 @@ matrix:
       before_script:
         - gem install awesome_bot
       script:
-        - awesome_bot README.md devops/README.md
+        - awesome_bot --white-list https://github.com/JetBrains/kotlin/releases/latest --files README.md devops/README.md
