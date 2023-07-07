@@ -1,4 +1,4 @@
-NOTE:  Archived this project on 2023-07-06.
+NOTE:  Archived this project on GitHub on 2023-07-06.
 
 # hello-gradle-kotlin
 [![image](https://img.shields.io/github/license/dksmiffs/hello-gradle-kotlin.svg)](https://github.com/dksmiffs/hello-gradle-kotlin)
